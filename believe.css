@@ -1,0 +1,76 @@
+      .main{
+                color:red;
+            }
+        
+            a{
+                color:rgb(250, 15, 199);  
+                backgroung-color:red;         
+            }
+            .colo{
+                color:brown;
+                position: absolute;
+                padding:0.5cm;
+            }
+            .co{
+                color:yellowgreen;
+                padding:0.5cm;
+           
+            }
+            .o{
+                color:aqua;
+                padding:0.5cm;
+            
+            }
+            .col{
+                color:black;
+                padding:0.5cm;
+                
+                
+            }
+           <!--the index portion--> .maza{
+            margin-left:19cm;
+            margin-right:0cm;
+            background-color:blue;
+            
+            }
+            hr{
+                color:blueviolet;
+                
+            }
+            h1{
+                text-align:center;
+                
+            }
+            p{
+background-color:rgb(112, 114, 112);
+color:rgb(102, 35, 35);
+            }
+          
+            ul{
+                background-color:rgba(241, 236, 231, 0.918);
+            }
+            em{
+                color:aqua;
+            }
+            body{
+                background-color: rgb(173, 173, 171);
+                padding:3cm;
+                margin-left:0.3cm;
+                
+                
+
+            }
+            ol{
+                background-color: azure;
+            }
+            .recent{
+                background-color: azure;
+              z-index:2;
+            }
+           
+            }
+            .move{
+            padding-left:1cm;
+            float: right;
+          
+            }        
